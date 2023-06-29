@@ -8,3 +8,17 @@ Upload a new file
 Change permission of a file
 View a file
 Generate thumbnails for images
+
+Resources
+Read or watch:
+
+Node JS getting started
+Process API doc
+Express getting started
+Mocha documentation
+Nodemon documentation
+MongoDB
+Bull
+Image thumbnail
+Mime-Types
+Redis
